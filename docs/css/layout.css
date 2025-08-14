@@ -1,0 +1,34 @@
+/* layout.css - أنماط التخطيط */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid {
+  display: grid;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .flex, .grid {
+    flex-direction: column;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .container {
+    padding: 1rem 0;
+  }
+}
