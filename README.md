@@ -1,9 +1,17 @@
 # شادي فلاي | Shady Fly
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/MajekAhmed/shadyfly?style=social)](https://github.com/MajekAhmed/shadyfly)
-[![Upwork](https://img.shields.io/badge/Upwork-View%20Profile-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/~01f61cb120971e2144?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-احمد_رجب_محمد-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-ragab-mohmed/)
-[![Facebook](https://img.shields.io/badge/Facebook-walooSolutions-1877f2?logo=facebook&logoColor=white)](https://www.facebook.com/walooSolutions)
+
+<!-- Project Features -->
+![Responsive](https://img.shields.io/badge/Responsive-Design-success?logo=responsive&logoColor=white)
+![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Enabled-black?logo=darkreader&logoColor=white)
+![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-yellow?logo=google&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-AA%20Compliant-blue?logo=accessible-icon&logoColor=white)
+
+<!-- Languages & Tools -->
+![HTML5](https://img.shields.io/badge/HTML5-Used-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Used-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222?logo=github&logoColor=white)
 
 ---
 
@@ -47,10 +55,11 @@
 
 ## تواصل معي لتنفيذ مشاريع مشابهة
 
-[![Upwork](https://img.shields.io/badge/Upwork-راسلني%20على%20Upwork-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/~01f61cb120971e2144?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-تواصل%20مهني-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-ragab-mohmed/)
-[![Facebook](https://img.shields.io/badge/Facebook-راسلني%20على%20فيسبوك-1877f2?logo=facebook&logoColor=white)](https://www.facebook.com/walooSolutions)
-[![GitHub](https://img.shields.io/badge/GitHub-شاهد%20اعمالي%20الاخرى-181717?logo=github&logoColor=white)](https://github.com/MajekAhmed)
+[![Upwork](https://img.shields.io/badge/Upwork-Contact%20me%20on%20Upwork-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/~01f61cb120971e2144?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Contact-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-ragab-mohmed/)
+[![Facebook](https://img.shields.io/badge/Facebook-Contact%20me%20on%20Facebook-1877f2?logo=facebook&logoColor=white)](https://www.facebook.com/walooSolutions)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20my%20other%20projects-181717?logo=github&logoColor=white)](https://github.com/MajekAhmed)
+
 
 ---
 
