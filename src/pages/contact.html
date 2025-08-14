@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="تواصل مع شادي فلاي لحجز تذاكر الطيران أو الاستفسار عن خدماتنا. فريقنا جاهز لخدمتك 24/7.">
+  <meta property="og:title" content="تواصل معنا | شادي فلاي">
+  <meta property="og:description" content="تواصل مع فريق شادي فلاي عبر الواتساب أو البريد الإلكتروني أو صفحات التواصل الاجتماعي.">
+  <meta property="og:image" content="../public/images/logo.png">
+  <meta property="og:type" content="website">
+  <title>تواصل معنا | شادي فلاي</title>
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/layout.css">
+  <link rel="stylesheet" href="../css/components.css">
+  <link rel="icon" href="../../public/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <header class="header flex-center">
+    <img src="../../public/images/logo.png" alt="شعار شادي فلاي" class="logo" loading="lazy">
+    <nav>
+      <a href="index.html">الرئيسية</a>
+      <a href="about.html">من نحن</a>
+      <a href="contact.html" class="active">تواصل معنا</a>
+    </nav>
+    <button id="toggle-mode" class="toggle-mode" aria-label="تبديل الوضع الليلي/الفاتح">🌙</button>
+  </header>
+  <main>
+    <section class="container contact-hero">
+      <h1>خليك على تواصل مع شادي فلاي</h1>
+      <p class="contact-lead">فريقنا جاهز لخدمتك على مدار الساعة لأي استفسار أو دعم في حجز تذاكر الطيران أو خدمات السفر. نسعد دائماً بتواصلك معنا!</p>
+      <div class="contact-cards flex">
+        <a class="contact-card" href="https://wa.me/+201122044616" target="_blank" rel="noopener" aria-label="واتساب شادي فلاي">
+          <i class="fab fa-whatsapp fa-2x" style="color:#25d366;"></i>
+          <h3>واتساب</h3>
+        </a>
+        <a class="contact-card" href="mailto:owen.ar2002@gmail.com" aria-label="البريد الإلكتروني">
+          <i class="fas fa-envelope fa-2x" style="color:#1e90ff;"></i>
+          <h3>البريد الإلكتروني</h3>
+        </a>
+        <a class="contact-card" href="https://www.facebook.com/shadyflyshady" target="_blank" rel="noopener" aria-label="فيس بوك شادي فلاي">
+          <i class="fab fa-facebook fa-2x" style="color:#1877f3;"></i>
+          <h3>فيس بوك</h3>
+        </a>
+      </div>
+    </section>
+
+    <section class="container support-section">
+      <h2>الدعم الفني وخدمة العملاء</h2>
+      <p>نحن هنا لمساعدتك في أي وقت! يمكنك التواصل معنا عبر الهاتف أو زيارة أحد فروعنا أو مراسلتنا عبر البريد الإلكتروني. فريقنا مدرب للرد على جميع استفساراتك بسرعة واحترافية.</p>
+      <ul class="support-list">
+        <li>دعم فني 24/7 لجميع العملاء</li>
+        <li>استشارات مجانية حول أفضل خطوط الطيران والعروض</li>
+        <li>متابعة الحجز حتى بعد السفر</li>
+      </ul>
+    </section>
+
+    <!--
+    <section class="container branches-section">
+      <h2>مواقع الفروع</h2>
+      <div class="branches-list grid">
+        <div class="branch-card">
+          <h3>الفرع الرئيسي - أسوان </h3>
+          <p>اسوان طريق الخزان خلف هايبر الصفا </p>
+        </div>
+      </div>
+    </section> 
+    -->
+
+    <section class="container faq-section">
+      <h2>الأسئلة الشائعة</h2>
+      <div class="faq-list">
+        <details>
+          <summary>كيف يمكنني حجز تذكرة طيران عبر شادي فلاي؟</summary>
+          <p>يمكنك التواصل معنا عبر الواتساب أو الهاتف أو البريد الإلكتروني، وسيقوم فريقنا بإتمام الحجز لك بسرعة وسهولة.</p>
+        </details>
+        <details>
+          <summary>هل يمكن تعديل أو إلغاء الحجز بعد الدفع؟</summary>
+          <p>نعم، نوفر خدمة تعديل أو إلغاء الحجز حسب شروط شركة الطيران. تواصل معنا فوراً لأي تعديل.</p>
+        </details>
+        <details>
+          <summary>ما هي طرق الدفع المتاحة؟</summary>
+          <p>نوفر عدة طرق دفع آمنة تشمل التحويل البنكي، الدفع الإلكتروني، والدفع النقدي في الفروع.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="container contact-form-section">
+      <h2>راسلنا مباشرة</h2>
+      <form class="contact-form" action="mailto:shadyflyshady@gmail.com" method="post" enctype="text/plain">
+        <div class="form-group">
+          <label for="name">الاسم الكامل</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">البريد الإلكتروني</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label for="phone">رقم الهاتف</label>
+          <input type="tel" id="phone" name="phone">
+        </div>
+        <div class="form-group">
+          <label for="message">رسالتك</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit">إرسال</button>
+      </form>
+    </section>
+  </main>
+  <footer class="footer">
+    جميع الحقوق محفوظة &copy; شادي فلاي 2025
+    <br>
+    <a href="https://www.facebook.com/shadyflyshady" target="_blank" rel="noopener" aria-label="فيس بوك شادي فلاي">فيس بوك</a>
+  </footer>
+  <script src="../js/main.js"></script>
+  <script src="../js/ui.js"></script>
+</body>
+</html>

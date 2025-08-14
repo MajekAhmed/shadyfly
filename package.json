@@ -1,0 +1,11 @@
+{
+  "name": "shadyfly",
+  "version": "1.0.0",
+  "description": "موقع احترافي لحجز تذاكر الطيران لشركة شادي فلاي.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "echo 'افتح index.html في المتصفح'"
+  },
+  "author": "Shady Fly Team",
+  "license": "MIT"
+}
